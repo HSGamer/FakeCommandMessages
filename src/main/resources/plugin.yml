@@ -1,0 +1,6 @@
+name: FakeCommandMessages
+version: ${project.version}
+main: me.hsgamer.fakecommandmessages.FakeCommandMessages
+api-version: 1.16
+authors: [ HSGamer ]
+description: A command catcher that sends fake messages

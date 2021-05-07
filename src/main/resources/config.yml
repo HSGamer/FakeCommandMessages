@@ -1,0 +1,10 @@
+plugin:
+  commands:
+    - /plugins
+    - /plugin
+    - /pl
+    - /bukkit:plugins
+    - /bukkit:plugin
+    - /bukkit:pl
+  messages:
+    - "&fPlugins (1): &aFakeCommandMessages"
